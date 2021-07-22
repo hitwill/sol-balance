@@ -2,7 +2,7 @@
 
 This lamda function returns the SOL { balance : balance } OR { error : error } of a Solana account (not a token account), when it receives a GET request. E.G. endpoint/?address=xxxx
 
-e.g. https://6iuvnc8op5.execute-api.us-east-1.amazonaws.com/production/balance?address=xxxx
+e.g. https://6iuvnc8op5.execute-api.us-east-1.amazonaws.com/production/check-balance?address=xxxx
 
 ## Installation/deployment instructions
 
